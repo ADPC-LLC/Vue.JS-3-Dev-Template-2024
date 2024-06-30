@@ -1,0 +1,17 @@
+<!-- @format -->
+
+## Licenses Applicable
+
+### This API Application - Nuxt-Laravel Pro StarterKit
+
+Please refer to to the entry-point [LICENSE](.\licenses\LICENSE-MIT.md) in this repository.
+Other licenses are applicable and in each case please refer to the main vendors's websites given below for more information about their proprietary rights.
+
+
+### Vue
+
+The [Vue Framework](https://vuejs.org/) and all its related licenses.
+
+### Vite
+
+[Vite Frontend Tooling](https://vitejs.dev/) and all its related licenses.
