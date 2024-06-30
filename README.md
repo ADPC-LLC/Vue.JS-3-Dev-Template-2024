@@ -24,3 +24,13 @@ The following **Functionality** is built-in.
 <img src="src\assets\Template_Tree.png" alt="Template Directory Structure" style="max-width: 100%;">
 
 ---
+
+## Adding E2E, Unit, and Component Tests
+
+Additional Tests for Playwright's Platform will be added as the template gets expanded with sample standard forms and features.
+
+## Adding Generic Forms and UI Components
+
+Generic Forms, Components and other standard-use Design Elements will be added as this template gets expanded.
+
+---
