@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# <img src="src\assets\logo.svg" alt="Vue.JS 3" style="max-width: 4%;"> — A Vue 3 Starting Template
+# <img src="src\assets\logo.svg" alt="Vue.JS 3 Logo" title="Vue JS Logo" width="40" style="box-shadow: 5px 5px 10px \#ffffff;"> — A Vue 3 Starting Template
 
 ---
 
