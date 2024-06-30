@@ -22,3 +22,5 @@ The following **Functionality** is built-in.
 ## The Template Structure
 
 <img src="src\assets\Template_Tree.png" alt="Template Directory Structure" style="max-width: 100%;">
+
+---
