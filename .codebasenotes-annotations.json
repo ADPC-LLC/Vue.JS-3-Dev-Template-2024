@@ -1,0 +1,9 @@
+{
+  "type": "dir",
+  "subNodes": {
+    "tsconfig.json": {
+      "type": "json",
+      "annotation": "1. Project References:\nProject references allows you to structure your TypeScript programs into smaller pieces, available in TypeScript 3.0 and newer.\n\nBy doing this, you can greatly improve build times, enforce logical separation between components, and organize your code in new and better ways.\n\nWe’re also introducing a new mode for tsc, the --build flag, that works hand in hand with project references to enable faster TypeScript builds.\n\n[tsconfig.json]"
+    }
+  }
+}
