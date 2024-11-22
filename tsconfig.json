@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "baseUrl": "./src/",
-    "lib": ["ESNext", "ES2020", "DOM"],
+    "lib": ["ESNext", "ES2022"],
     "target": "ESNext",
     "module": "ESNext",
     "useDefineForClassFields": true,
@@ -34,7 +34,6 @@
   "files": [],
   "references": [
     // Reference: https://www.typescriptlang.org/docs/handbook/project-references.html
-    { "path": "../src" },
     {
       "path": "../tsconfig.node.json"
     },
