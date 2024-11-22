@@ -1,14 +1,48 @@
 {
+  "compilerOptions": {
+    "baseUrl": "./src/",
+    "lib": ["ESNext", "ES2020", "DOM"],
+    "target": "ESNext",
+    "module": "ESNext",
+    "useDefineForClassFields": true,
+    "moduleResolution": "Node",
+    "strict": true,
+    "jsx": "preserve",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "composite": true,
+    "emitDeclarationOnly": true, // use this field instead of "noEmit"
+    "paths": {
+      //Direct
+
+      //Sub Locations
+      "@/*": ["*"],
+      "@components/*": ["components/*"],
+      "@pages/*": ["@Pages/*"]
+    }
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.d.ts",
+    "src/**/*.tsx",
+    "src/**/*.vue",
+    "vite.config.*",
+    "auto-imports.d.ts"
+  ],
   "files": [],
   "references": [
+    // Reference: https://www.typescriptlang.org/docs/handbook/project-references.html
+    { "path": "../src" },
     {
-      "path": "./tsconfig.node.json"
+      "path": "../tsconfig.node.json"
     },
     {
-      "path": "./tsconfig.app.json"
+      "path": "../tsconfig.app.json"
     },
     {
-      "path": "./tsconfig.vitest.json"
+      "path": "../tsconfig.vitest.json"
     }
   ]
 }
