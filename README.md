@@ -45,7 +45,7 @@ The following recommended IDE Extensions are not exclusive nor inclusive, as it 
 - [Vue Ecosystem Snippets](https://marketplace.visualstudio.com/items?itemName=matijao.vue-nuxt-snippets) - Snippets for the modern Vue ecosystem - including Nuxt 3, Pinia, VueUse, Vue Router & Vue Macros.
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Tailwind CSS IntelliSense enhances the Tailwind development experience.
 - [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - Quokka.js is a developer productivity tool for rapid JavaScript / TypeScript prototyping.
-- [i18n Ally]() - Localization Tooling. Manage All Translations in One Place.
+- [i18n Ally](https://marketplace.visualstudio.com/items?itemName=lokalise.i18n-ally) - Localization Tooling. Manage All Translations in One Place.
 - [CodebaseNotes](https://marketplace.visualstudio.com/items?itemName=AlexTsirozidis.codebasenotes)
 
 ---
